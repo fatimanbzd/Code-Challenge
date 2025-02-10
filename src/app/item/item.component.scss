@@ -1,0 +1,17 @@
+.item {
+  padding: 8px;
+  border-radius: 5px;
+  background-color: lighten(gray, 40%);
+.title{
+  font-weight: bold;
+}
+  .content {
+    line-height: 1.5;
+  }
+
+  .date {
+    font-size: 11px;
+    color: gray;
+    margin-top: 15px;
+  }
+}

@@ -1,0 +1,19 @@
+.container {
+  width: 80%;
+  height: 10vh;
+  margin: 10px auto;
+direction: rtl;
+
+//help by ChatGPT
+  .row {
+    column-count: 3;
+    column-gap: 8px;
+    .col {
+      display: inline-block;
+      width: 100%;
+      margin-bottom: 10px;
+      height: auto;
+    }
+  }
+}
+
